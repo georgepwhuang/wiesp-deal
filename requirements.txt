@@ -1,0 +1,8 @@
+datasets 
+pytorch-lightning 
+seqeval 
+sentencepiece 
+nltk
+torch
+transformers
+pandas
